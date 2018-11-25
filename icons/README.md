@@ -1,4 +1,6 @@
-# Misskey Icons
+# Misskey Logos & Icons
+Misskeyのロゴとアイコンのセットです。
+
 ## 同梱画像
 - favicon.ico
 - favicon.svg
@@ -10,6 +12,6 @@
 ## 著作権 Copyright
 ©Misskey 2017
 
-## ライセンス LISCENSE
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>  
-これらの作品は<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>の下に提供されています。
+## ライセンス Liscense
+ファイルはMisskeyに関連する用途であれば制限なく自由に利用できます。  
+Files can be freely used if it is related to Misskey.
